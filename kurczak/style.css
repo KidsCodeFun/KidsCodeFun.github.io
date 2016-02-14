@@ -1,0 +1,35 @@
+section {
+	height: 100%;
+}
+
+img {
+	height:400px;
+	width:400px;
+	object-fit: contain;
+}
+
+img:hover {
+	height:700px;
+	width:700px;
+	transition: 1s ease;
+}
+
+section#Franciszek {
+	background-color: #DC143C;
+}
+
+section#Basia {
+	background-color: #00FF00;
+}
+
+section#VanAnh {
+	background-color:#FFFF00
+}
+
+header ul {
+	background-color: #ffffff;
+
+}
+footer {
+	background-color: #000000;
+}

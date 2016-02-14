@@ -1,0 +1,26 @@
+section {
+	height:100%;
+}
+
+img {
+	height:400px;
+	width:400px;
+	object-fit: cover;
+}
+
+section#info{
+	background-color: #00CED1;
+}
+
+section#video{
+	background-color: #00CED1;
+}
+
+header ul{
+	background-color: #FFC0CB;
+}
+
+header ul{
+	background-color: #FFC0CB;
+}
+
